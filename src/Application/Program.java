@@ -5,9 +5,10 @@ import java.util.Scanner;
 public class Program {
 
 	public static void main(String[] args) {
-		// Primeira alteraÁ„o no coment·rio para ver se est· tudo certo
+		// Primeira altera√ß√£o no coment√°rio para ver se est√° tudo certo
 		//Mais uma linha
 		//Outra linha mais
+		//Altera√ß√£o feita diretamente pelo GitHub
 		
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
